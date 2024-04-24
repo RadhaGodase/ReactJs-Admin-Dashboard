@@ -1,0 +1,15 @@
+.crypto-values {
+    margin-top: 20px;
+  }
+  
+  .values {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .value {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+  }
