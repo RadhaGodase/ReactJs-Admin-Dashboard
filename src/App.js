@@ -23,6 +23,8 @@ function App() {
         <h1>Cat Facts</h1>
         <CatFacts/>
       </div>
+      <div> Radha Godase</div>
+            <div> Radha Godase</div>
       <div className="single-box">
         <h1>Bitcoin Realtime Value</h1>
         <CryptoValue/>
